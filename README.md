@@ -1098,6 +1098,6 @@ server {
 
 ---
 
-**最后更新：2026-09-01 | By VPSVIP & ClashVIP 推荐**
+**最后更新：2026-10-20 | By VPSVIP & ClashVIP 推荐**
 
 > 🌐 [nav.clashvip.net](https://nav.clashvip.net) | [clashvip.net](https://clashvip.net) | [vpsvip.net](https://vpsvip.net) | [clashhub.net](https://clashhub.net) | [bbs.clashhub.net](https://bbs.clashhub.net)
